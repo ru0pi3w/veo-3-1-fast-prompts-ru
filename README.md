@@ -100,7 +100,7 @@ That is the point. Keep the structure (subject + light + framing + setting + fin
 <!-- related-repos:auto -->
 ## Related repositories
 
-- **Same model, this language** — the other half of this pair: [veo-3-1-fast-api-ru](https://github.com/u4mm9oz95dd/veo-3-1-fast-api-ru)
+- **Same model, this language** — the other half of this pair: [veo-3-1-fast-api-ru](https://github.com/ru0pi3w/veo-3-1-fast-api-ru)
 - **Same model, other languages** — 10 more language builds: English `veo-3-1-fast-api` · 中文 `veo-3-1-fast-api-cn` · Deutsch `veo-3-1-fast-api-de` · Español `veo-3-1-fast-api-es` · Français `veo-3-1-fast-api-fr` · Relay/gateway `veo-3-1-fast-api-gateway` · Bahasa `veo-3-1-fast-api-id` · 日本語 `veo-3-1-fast-api-ja` · 한국어 `veo-3-1-fast-api-ko` · Português `veo-3-1-fast-api-pt`
 - **More models in this language** — [midjourney-api-ru](https://github.com/sfpxvicw/midjourney-api-ru) · [gemini-2-5-flash-image-preview-api-ru](https://github.com/zwtdva8/gemini-2-5-flash-image-preview-api-ru) · [nano-banana-api-ru](https://github.com/ggpbi40ss/nano-banana-api-ru) · [gemini-3-1-flash-image-preview-api-ru](https://github.com/lu60av/gemini-3-1-flash-image-preview-api-ru) · [nano-banana-2-api-ru](https://github.com/jnp3hlry/nano-banana-2-api-ru) · [gemini-3-pro-image-preview-api-ru](https://github.com/dbxz24/gemini-3-pro-image-preview-api-ru)
 - **Topic hubs** — every build of this model, all languages: [veo-3-1-fast](https://github.com/topics/veo-3-1-fast) · [veo-3-1-fast-api](https://github.com/topics/veo-3-1-fast-api)
